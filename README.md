@@ -1,2 +1,2 @@
-# dressing-website
-Dressing website
+# Dressing-website
+Site Web d'habillage avec des pages à l'intérieur
